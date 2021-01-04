@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://skyfield.site/post/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://skyfield.site/post/%E8%AE%BA%E6%96%87-%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E8%B0%83%E7%A0%94/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://skyfield.site/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://skyfield.site/post/%E4%B9%A6%E8%AF%84-%E5%B0%BC%E9%87%87-%E6%88%91%E4%BB%AC%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E7%9A%84%E6%9C%AA%E6%9D%A5/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://skyfield.site/post/%E6%9C%AD%E8%AE%B0-%E6%88%91%E8%AF%BB%E5%BA%84%E5%AD%90-%E8%87%AA%E5%9C%A8%E8%87%AA%E4%B8%BA/</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://skyfield.site/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://skyfield.site/tags/</loc>
+  </url>
+  
+</urlset>
