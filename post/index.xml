@@ -2,17 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 藏经船</title>
-    <link>http://pygmalion6636.github.io/post/</link>
+    <link>https://pygmalion.github.io/post/</link>
     <description>Recent content in Posts on 藏经船</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://pygmalion6636.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pygmalion.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TeX 百科</title>
+      <link>https://pygmalion.github.io/post/%E5%86%99%E4%BD%9C-tex/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pygmalion.github.io/post/%E5%86%99%E4%BD%9C-tex/</guid>
+      <description>资源  网站    http://www.latexstudio.net/
+  https://www.latex-project.org/
+  http://www.tug.org/ , TeX Users Group
+  http://www.ctex.org/HomePage
+  https://ctan.org/
+  http://tug.ctan.org/, Comprehensive TEX Archive Network
+    https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/, Comprehensive TEX Archive Network (CTAN)站点 清华镜像
+  https://tuna.moe/, 清华大学开源协会,
+  http://www.ctex.org/HomePage, 2018.11.21CTEX论坛因故自即日起无限期关闭
+    博客    一份其实很短的 LATEX 入门文档 (Liam Huang)
+  TeX 引擎, 格式, 发行版之介绍(Liam Huang/黄晨成/知乎孟晨)</description>
+    </item>
+    
     <item>
       <title>全平台写作工具大盘点</title>
-      <link>http://pygmalion6636.github.io/post/20210105-%E6%95%99%E7%A8%8B-%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7%E5%A4%A7%E7%9B%98%E7%82%B9/</link>
+      <link>https://pygmalion.github.io/post/20210105-%E6%95%99%E7%A8%8B-%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7%E5%A4%A7%E7%9B%98%E7%82%B9/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://pygmalion6636.github.io/post/20210105-%E6%95%99%E7%A8%8B-%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7%E5%A4%A7%E7%9B%98%E7%82%B9/</guid>
+      <guid>https://pygmalion.github.io/post/20210105-%E6%95%99%E7%A8%8B-%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7%E5%A4%A7%E7%9B%98%E7%82%B9/</guid>
       <description>目录:TOC_3:    叙言
   写作工具特性
   全平台工具链
@@ -35,10 +54,10 @@
     
     <item>
       <title>论写作</title>
-      <link>http://pygmalion6636.github.io/post/20210105-%E6%9C%AD%E8%AE%B0-%E8%AE%BA%E5%86%99%E4%BD%9C/</link>
+      <link>https://pygmalion.github.io/post/20210105-%E6%9C%AD%E8%AE%B0-%E8%AE%BA%E5%86%99%E4%BD%9C/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://pygmalion6636.github.io/post/20210105-%E6%9C%AD%E8%AE%B0-%E8%AE%BA%E5%86%99%E4%BD%9C/</guid>
+      <guid>https://pygmalion.github.io/post/20210105-%E6%9C%AD%E8%AE%B0-%E8%AE%BA%E5%86%99%E4%BD%9C/</guid>
       <description>论写作  – &amp;lt;2021-01-05 Tue 14:20&amp;gt;
 什么是写作?  写作是内容和形式的统一.   写作是脑袋里无序化的内容和文章中有序化的形式的辩证运动的过程. 写作过程的起点 是脑袋里有了写作的念头. 写作过程的终点是物理上有了文章的实体. 写作的过程就是 思维内容和文章形式不断辩证匹配的过程.
  脑袋里的信息是鲜活的信息, 其形式随时都可能变化. 当用符号向外表达脑袋里的信息 时, 必须给定一个形式, 否则便无法在时空上展开一个表达事件. 并且在这个表达的过 程中, 信息被做了层层改变. 所谓书不尽言, 言不尽意. 何以故?
@@ -50,10 +69,10 @@
     
     <item>
       <title>笔记软件调研</title>
-      <link>http://pygmalion6636.github.io/post/%E8%AE%BA%E6%96%87-%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E8%B0%83%E7%A0%94/</link>
+      <link>https://pygmalion.github.io/post/%E8%AE%BA%E6%96%87-%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E8%B0%83%E7%A0%94/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://pygmalion6636.github.io/post/%E8%AE%BA%E6%96%87-%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E8%B0%83%E7%A0%94/</guid>
+      <guid>https://pygmalion.github.io/post/%E8%AE%BA%E6%96%87-%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E8%B0%83%E7%A0%94/</guid>
       <description>为什么做笔记   笔记是知识工作者的基本工作内容之一.
  日本笔记狂人奥野宣之的如何有效整理信息中提出笔记三原则:
   一元化
@@ -74,10 +93,10 @@
     
     <item>
       <title>评&#34;我们教育机构的未来&#34;(尼采)</title>
-      <link>http://pygmalion6636.github.io/post/%E4%B9%A6%E8%AF%84-%E5%B0%BC%E9%87%87-%E6%88%91%E4%BB%AC%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E7%9A%84%E6%9C%AA%E6%9D%A5/</link>
+      <link>https://pygmalion.github.io/post/%E4%B9%A6%E8%AF%84-%E5%B0%BC%E9%87%87-%E6%88%91%E4%BB%AC%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E7%9A%84%E6%9C%AA%E6%9D%A5/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://pygmalion6636.github.io/post/%E4%B9%A6%E8%AF%84-%E5%B0%BC%E9%87%87-%E6%88%91%E4%BB%AC%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E7%9A%84%E6%9C%AA%E6%9D%A5/</guid>
+      <guid>https://pygmalion.github.io/post/%E4%B9%A6%E8%AF%84-%E5%B0%BC%E9%87%87-%E6%88%91%E4%BB%AC%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E7%9A%84%E6%9C%AA%E6%9D%A5/</guid>
       <description>外部信息  – &amp;lt;2020-12-27 Sun 17:37&amp;gt;
  书籍简介: 论我们教育机构的未来. 尼采著, 周国平译, 译林出版社, 修订版, 2014.02.
  该书是尼采的早期著作, 写于1872年, 未完成, 生前未出版. 周国平译于1996年, 这版是 修订版.
@@ -100,10 +119,10 @@
     
     <item>
       <title>我读庄子: 自在自为</title>
-      <link>http://pygmalion6636.github.io/post/%E6%9C%AD%E8%AE%B0-%E6%88%91%E8%AF%BB%E5%BA%84%E5%AD%90-%E8%87%AA%E5%9C%A8%E8%87%AA%E4%B8%BA/</link>
+      <link>https://pygmalion.github.io/post/%E6%9C%AD%E8%AE%B0-%E6%88%91%E8%AF%BB%E5%BA%84%E5%AD%90-%E8%87%AA%E5%9C%A8%E8%87%AA%E4%B8%BA/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://pygmalion6636.github.io/post/%E6%9C%AD%E8%AE%B0-%E6%88%91%E8%AF%BB%E5%BA%84%E5%AD%90-%E8%87%AA%E5%9C%A8%E8%87%AA%E4%B8%BA/</guid>
+      <guid>https://pygmalion.github.io/post/%E6%9C%AD%E8%AE%B0-%E6%88%91%E8%AF%BB%E5%BA%84%E5%AD%90-%E8%87%AA%E5%9C%A8%E8%87%AA%E4%B8%BA/</guid>
       <description>目录&amp;#xa0;&amp;#xa0;&amp;#xa0;TOC_2    序
   第一篇
     序  – &amp;lt;2020-12-21 Mon 07:23&amp;gt;
@@ -115,10 +134,10 @@
     
     <item>
       <title>调试Emacs--我是如何学会停止焦虑并爱上DTrace的</title>
-      <link>http://pygmalion6636.github.io/post/%E8%B0%83%E8%AF%95emacs-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E5%81%9C%E6%AD%A2%E7%84%A6%E8%99%91%E5%B9%B6%E7%88%B1%E4%B8%8Adtrace%E7%9A%84/</link>
+      <link>https://pygmalion.github.io/post/%E8%B0%83%E8%AF%95emacs-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E5%81%9C%E6%AD%A2%E7%84%A6%E8%99%91%E5%B9%B6%E7%88%B1%E4%B8%8Adtrace%E7%9A%84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pygmalion6636.github.io/post/%E8%B0%83%E8%AF%95emacs-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E5%81%9C%E6%AD%A2%E7%84%A6%E8%99%91%E5%B9%B6%E7%88%B1%E4%B8%8Adtrace%E7%9A%84/</guid>
+      <guid>https://pygmalion.github.io/post/%E8%B0%83%E8%AF%95emacs-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E5%81%9C%E6%AD%A2%E7%84%A6%E8%99%91%E5%B9%B6%E7%88%B1%E4%B8%8Adtrace%E7%9A%84/</guid>
       <description>调试Emacs–我是如何学会停止焦虑并爱上DTrace的   有一段时间Elfeed出现了一个奇怪的、虚假的失败。用户在更新feed时经常看到一个错误(剧透警告) “error in process sentinel: Search failed”. 如果你使用Elfeed，可能自己也遇到过。 表面上看很明显是curl(其任务是负责下载feed数据)运行成功但输出并不完整。 由于运行是成功的，因此Elfeed假设数据已经全部在curl的输出缓冲区中了，但是结果不是这样，所以出现了严重的错误。
  不幸的是，这个问题无法重现。在Emacs之外手动运行curl不会发现任何问题。 让Elfeed重新获取feed也完全没问题的。只有当Elfeed在压力下同时获取多个feed时，这个问题才会随机出现。 而且在报错误之前，curl进程就已经退出了，重要的调试信息已经丢失了。这看起来像是Emacs本身的一个bug，并没有可靠的方法能从Emacs Lisp中捕获必要的调试信息。 而且，的确，后来被证明事实就是如此。
  一种快速而粗糙的变通方法是使用 condition-case 捕获并吞下抛出的错误。 当出现这一奇怪的问题时，Elfeed不会在用户面前显示为严重的错误，而是会尝试吞下这个错误(如果它可以可靠地被检测到的话),并将其视为简单的失败。 这个变通方案让我很不舒服。 Elfeed已经对错误进行了详尽的检查。肯定有那个地方部队，总有一天我会当场找出原因。
